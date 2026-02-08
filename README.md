@@ -1,3 +1,8 @@
+<a name="russian"></a>
+[🇺🇸 Read in English](#english) | [🇷🇺 Читать на русском](#russian)
+
+---
+
 
 ![Project Orbitus Banner](1770297254520.png)
 

@@ -101,7 +101,8 @@ __
 Крепление: Обручи крепятся по одному на каждый блин к несущему корпусу платформы. Они расположены ниже плоскости магнита, чтобы встречать поток от пола первыми.
 Итог
 Разделение сталей позволяет одновременно фокусировать полезную силу и фильтровать вредную. Мы сознательно предлагаем инструменты для достижения контролируемой стабильности, которая является фундаментом всей концепции левитации.
-
+## дополнение 
+дя увеличения мощности можно фокусировать ни только магнитное поле пола но и поле блина ливитатора через стальной стакан трансформаторной стали!
 ## P.S. Магнитная специализация: Почему именно эти материалы?
 Для тех, кто хочет глубже понять физику процесса, я разделяю функции материалов по их принципиальному воздействию на поле:
 Т-сталь (Трансформаторная) — это «РУСЛО»:
@@ -109,7 +110,9 @@ __
 К-сталь (Компьютерная/Изотропная) — это «РАССЕИВАТЕЛЬ»:
 Этот материал — полная противоположность. Он изотропен, то есть жадно впитывает магнитные линии со всех сторон сразу. В проекте он выполняет роль магнитного демпфера и ловушки. Она не направляет поле, а «съедает» его, превращая хаотичные краевые лучи в безопасный внутренний поток. Это наш главный инструмент защиты и фильтрации от паразитных помех.
 
-
+### Обратная связь / Feedback
+Если у вас есть вопросы по реализации проекта или предложения по его улучшению, буду рад обсудить:
+​Email: 863328@mail.ru
 
 ---
 <a name="english"></a>
@@ -224,9 +227,13 @@ In the updated concept, two fundamentally different materials are used:
 The separation of steels allows for the simultaneous focusing of useful force and the filtering of harmful interference. We are deliberately proposing tools to achieve controlled stability, which is the foundation of the entire levitation concept.
 
 ---
+Addition: To increase power output, you can focus not only the base (rail) magnetic field but also the field of the levitating element. This is achieved by encasing the magnet in a transformer steel yoke (shroud), which acts as a magnetic flux concentrator.
 
 ## P.S. Magnetic Specialization: Why these materials?
 For those who want to dive deeper into the physics of the process, I separate the functions of the materials based on their fundamental impact on the field:
 * **T-Steel (Transformer) — The "CHANNEL":** Due to its anisotropy (the ability to conduct a field in only one direction), it acts as a navigator. Its task is to prevent the field from "leaking." It forces magnetic lines to flow strictly where we need them, forming a dense and powerful "support" under the disc. We use it for focus and power concentration.
 * **K-Steel (Computer/Isotropic) — The "DISSIPATOR":** This material is the exact opposite. It is isotropic, meaning it greedily absorbs magnetic lines from all directions at once. In the project, it serves as a magnetic damper and trap. It does not direct the field but "eats" it, transforming chaotic edge rays into a safe internal flow. This is our primary tool for protection and filtration against parasitic interference.
 * 
+**EN:** If you have any questions regarding the project implementation or suggestions for improvement, feel free to reach out:
+
+* **Email:** 863328@mail.ru
